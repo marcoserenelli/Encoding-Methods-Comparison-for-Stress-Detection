@@ -1,0 +1,8 @@
+/venv/
+/data/
+/logs/
+wesad_evaluator.sif
+.DS_Store
+/.idea/
+/.env
+/all_subject_data.csv

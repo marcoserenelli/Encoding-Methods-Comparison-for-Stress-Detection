@@ -1,0 +1,11 @@
+python-dotenv
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.4.2
+psutil==5.9.8
+pyts==0.13.0
+scipy==1.13.0
+matplotlib==3.8.4
+fastdtw==0.3.4
+imbalanced-learn==0.12.3
+torch==2.3.1
